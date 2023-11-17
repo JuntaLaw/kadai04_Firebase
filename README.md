@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ①課題番号-プロダクト名
+課題４　Firebase
 
-## Getting Started
+## ②課題内容（どんな作品か）
+- ユーザー登録＆ログイン機能付きチャットアプリをFirebase, React, Next.jsで作ってみた
 
-First, run the development server:
+## ③DEMO
+（任意）デプロイしている場合はURLを記入
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ④工夫した点・こだわった点
+- Firebase Authenticationを使用してユーザー新規登録＆ログイン認証機能を作成
+- Firebase Cloud Firestoreを使用してチャットアプリ機能を作成
+- React & Next.jsに挑戦してみた（この入門に時間をかけてしまって作品まで仕上げきれてないですが・・・来週までに更なる機能追加と魔改造予定）
+- Tailwind.cssに挑戦してみた
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ④難しかった点・次回トライしたいこと(又は機能)
+-　元のプロジェクトデータにはnode_modulesのフォルダがあるのですが、アップロード失敗したので来週までに全データアップロードできるようにします
+-　ChatGPTのAPI導入予定でした。Botと会話する用のアプリの設計なので、来週までに実装します
+-　現状、色々なチュートリアルからのTTPなので、来週までにオリジナル魔改造します
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ⑤質問・疑問・感想、シェアしたいこと等なんでも
+- [質問]
+- [疑問]
+- [感想]
+- [tips]
+- [参考記事]
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### おまけ
+キャプチャ画像を入れたい場合は以下のフォーマットを使用してみてください。
+その場合はキャプチャ画像用のフォルダを作成してその画像のパスを使用してみましょう。
+(srcフォルダなどをそれ用に作ってみてもいいかもしれないです)
+書き方)
+![alt文](画像URL)
+例)
+![top page capture](./src/capture1.png)
