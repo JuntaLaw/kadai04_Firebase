@@ -10,7 +10,7 @@
 ## ④工夫した点・こだわった点
 - Firebase Authenticationを使用してユーザー新規登録＆ログイン認証機能を作成
 - Firebase Cloud Firestoreを使用してチャットアプリ機能を作成
-- React & Next.jsに挑戦してみた（この入門に時間をかけてしまって作品まで仕上げきれてないですが・・・来週までに更なる機能追加と魔改造予定）
+- React & Next.jsに挑戦してみた
 - Tailwind.cssに挑戦してみた
 
 ## ④難しかった点・次回トライしたいこと(又は機能)
@@ -23,7 +23,13 @@
 - [疑問]
 - [感想]
 - [tips]
+  - React Hook Form
+  https://react-hook-form.com/
+  - React Icons
+  https://react-icons.github.io/react-icons/search/#q=logout
 - [参考記事]
+  - **ウェブサイトで Firebase Authentication を使ってみる**
+    https://firebase.google.com/docs/auth/web/start?hl=ja
 
 
 ### おまけ
